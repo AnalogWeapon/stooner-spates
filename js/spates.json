@@ -301,5 +301,12 @@
             "oming"
         ]
     },
-    "prefix": []
+    "prefix": [
+        "New",
+        "North",
+        "West"
+    ],
+    "postfix": [
+        "Island"
+    ]
 }
